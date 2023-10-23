@@ -1,0 +1,19 @@
+.fadebg {
+    background-color: lightpink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+
+}
+
+.font24px {
+    font-size: 24px;
+}
+
+#div2 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
+
+#div1 {
+    font-size: 36px;
+    color: blue;
+}
